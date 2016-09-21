@@ -1,0 +1,42 @@
+Tag,Query
+Animals|Aardvark,content:Aardvark
+Animals|Albatross,content:Albatross OR properties:Albatross
+Animals|Alligator,content:Alligator
+Animals|Alpaca,content:Alpaca OR properties:Alpaca
+Animals|Ant,content:Ant
+Animals|Anteater,content:Anteater OR properties:Anteater
+Animals|Antelope,content:Antelope
+Animals|Ape,content:Ape OR properties:Ape
+Animals|Armadillo,content:Armadillo
+Animals|Baboon,content:Baboon OR properties:Baboon
+Animals|Badger,content:Badger
+Animals|Barracuda,content:Barracuda OR properties:Barracuda
+Animals|Bat,content:Bat
+Animals|Bear,content:Bear OR properties:Bear
+Animals|Beaver,content:Beaver
+Animals|Bee,content:Bee OR properties:Bee
+Animals|Bison,content:Bison
+Animals|Boar,content:Boar OR properties:Boar
+Animals|Buffalo,content:Buffalo
+Animals|Galago,content:Galago OR properties:Galago
+Animals|Butterfly,content:Butterfly
+Animals|Camel,content:Camel OR properties:Camel
+Animals|Caribou,content:Caribou
+Animals|Cat,content:Cat OR properties:Cat
+Animals|Caterpillar,content:Caterpillar
+Animals|Cattle,content:Cattle OR properties:Cattle
+Animals|Chamois,content:Chamois
+Animals|Cheetah,content:Cheetah OR properties:Cheetah
+Animals|Chicken,content:Chicken
+Animals|Chimpanzee,content:Chimpanzee OR properties:Chimpanzee
+Animals|Chinchilla,content:Chinchilla
+Animals|Chough,content:Chough OR properties:Chough
+Animals|Clam,content:Clam
+Animals|Cobra,content:Cobra OR properties:Cobra
+Animals|Cockroach,content:Cockroach
+Animals|Cod,content:Cod OR properties:Cod
+Animals|Cormorant,content:Cormorant
+Animals|Coyote,content:Coyote OR properties:Coyote
+Animals|Crab,content:Crab
+Animals|Crane,content:Crane OR properties:Crane
+Animals|Crocodile,content:Crocodile
